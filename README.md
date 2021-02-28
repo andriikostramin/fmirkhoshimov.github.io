@@ -1,2 +1,2 @@
-# fmirkhoshimov.github.pl
+# fmirkhoshimov.github.io
 My project
